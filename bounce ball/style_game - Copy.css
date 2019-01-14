@@ -1,0 +1,42 @@
+canvas{
+	background-image:url("back.jpg"); 
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+header{
+	width: 700px;
+	height: 100px;
+	background-color:#7FFFD4;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	
+}
+
+header header{
+	width: 600px;
+	height: 60px;
+	margin-left: 50px;
+	background-color:#FAEBD7;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+p.one{
+	font-family: Consolas;
+	font-size: 30px;
+	font-style:italic; 
+	font-weight:bold;
+	font-color:#FF0009;
+}
+
+p.two{
+	font-family: Consolas;
+	font-size: 30px;
+	font-style:italic; 
+	font-weight:bold;
+	font-color:#FF0009;
+}
+
